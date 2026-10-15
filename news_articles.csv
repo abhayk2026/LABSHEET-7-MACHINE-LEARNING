@@ -1,0 +1,61 @@
+Article_ID,Category,Text
+N001,Technology,Researchers develop a faster processor for artificial intelligence workloads
+N002,Technology,New smartphone introduces an improved camera and longer battery life
+N003,Technology,Cloud computing companies expand data centers for machine learning
+N004,Technology,Cybersecurity team discovers vulnerability in enterprise software
+N005,Technology,Open source developers release a new programming language tool
+N006,Technology,Robotics laboratory tests autonomous systems using computer vision
+N007,Technology,Technology firms invest in semiconductor manufacturing and chips
+N008,Technology,Software update improves privacy controls and device performance
+N009,Technology,Artificial intelligence model summarizes documents and answers questions
+N010,Technology,Engineers build quantum computing hardware for scientific research
+N011,Technology,Mobile application adds secure payments and account authentication
+N012,Technology,Data scientists use neural networks to classify images and text
+N013,Technology,Computer networks receive upgrades for faster wireless connectivity
+N014,Technology,Startup launches wearable device with health tracking sensors
+N015,Technology,Developers improve database queries and distributed storage systems
+N016,Sports,National football team wins the final after a dramatic late goal
+N017,Sports,Cricket captain praises bowlers after a close tournament victory
+N018,Sports,Basketball club signs a young player for the upcoming season
+N019,Sports,Marathon runners prepare for the city race this weekend
+N020,Sports,Tennis champion advances to the semi final in straight sets
+N021,Sports,Coach changes team strategy before the league championship
+N022,Sports,Stadium hosts a record crowd for the international match
+N023,Sports,Players recover from injuries ahead of the football season
+N024,Sports,Cricket league announces fixtures and ticket booking details
+N025,Sports,Swimmer breaks a national record at the swimming competition
+N026,Sports,Sports committee selects athletes for the regional games
+N027,Sports,Team celebrates its first title after a difficult season
+N028,Sports,Badminton player wins a close match with strong defense
+N029,Sports,Referee reviews a controversial decision during the final
+N030,Sports,Training program focuses on strength fitness and endurance
+N031,Health,Doctors recommend regular exercise and balanced nutrition for adults
+N032,Health,Researchers study a new treatment for a common respiratory disease
+N033,Health,Hospitals expand preventive screening services for local communities
+N034,Health,Public health campaign encourages vaccination and hygiene practices
+N035,Health,Nutrition experts explain the role of protein in muscle recovery
+N036,Health,Scientists analyze sleep quality and its effects on concentration
+N037,Health,Medical team tests digital tools for monitoring patient records
+N038,Health,Health officials report seasonal flu cases and prevention advice
+N039,Health,Clinical research evaluates rehabilitation after knee surgery
+N040,Health,Community clinic offers blood pressure checks and health education
+N041,Health,Researchers examine air pollution links with respiratory symptoms
+N042,Health,Pharmacists explain safe storage and use of medicines
+N043,Health,Doctors discuss early diagnosis and management of diabetes
+N044,Health,Fitness study compares walking and cycling for heart health
+N045,Health,Hospital introduces telemedicine appointments for rural patients
+N046,Business,Retail company reports higher sales during the holiday quarter
+N047,Business,Central bank discusses inflation interest rates and economic growth
+N048,Business,Small businesses adopt digital payments to reach more customers
+N049,Business,Automaker announces investment in a new manufacturing facility
+N050,Business,Stock market investors assess company earnings and market risks
+N051,Business,Startup secures funding to expand its logistics platform
+N052,Business,Retail brands change pricing strategies amid strong competition
+N053,Business,Exporters seek new markets after changes in global trade
+N054,Business,Company board approves a plan to reduce operating costs
+N055,Business,Analysts examine consumer demand and quarterly revenue forecasts
+N056,Business,Bank launches a loan product for small business owners
+N057,Business,Supply chain delays affect production across several industries
+N058,Business,Entrepreneurs attend a workshop on business planning and finance
+N059,Business,Technology company announces a partnership with a major retailer
+N060,Business,Tourism businesses prepare offers for the winter travel season

@@ -1,0 +1,3 @@
+Method,Clusters,Silhouette_Score_Cosine,Adjusted_Rand_Index_vs_Category
+K-Means (TF-IDF),8,0.016,0.0181
+Agglomerative (cosine),8,0.015,0.162
